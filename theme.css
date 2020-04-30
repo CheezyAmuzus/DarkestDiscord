@@ -1,3 +1,11 @@
+/**
+ * @name DarkestDiscord
+ * @version 1.0.0
+ * @description As dark as Discord can go without everything being just black.
+ * @authorId 356262707717996545
+ * @author Cheezy Amuzus
+**/
+
 :root {
     --background-dark-primary: #070707 !important;		
     --background-dark-secondary: #040404 !important;		
@@ -986,7 +994,7 @@
     padding: 12px;
     overflow: hidden;
     background: black !important;
-    border: 2px solid #121212;
+    border: 2px solid #101010;
     pointer-events: all;
     position: relative;
     width: 20vw;
@@ -1349,7 +1357,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .scrollableContainer-2NUZem {
-    background-color: #202020;
+    background-color: #131313;
 }
 
 .attachPopout-36hjtN {
@@ -1502,7 +1510,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .bar-2Qqk5Z {
-    background: #292929;
+    background: #0d0d0d;
 }
 
 .theme-dark .progress-1IcQ3A {
@@ -1515,7 +1523,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .checkbox-1ix_J3 {
-    border-color: #292929;
+    border-color: #0d0d0d;
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
@@ -1536,7 +1544,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .themeDefault-24hCdX {
-    background-color: #292929;
+    background-color: #0d0d0d;
 }
 
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
@@ -1596,15 +1604,15 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .closeButton-1tv5uR {
-    border-color: #292929;
+    border-color: #0d0d0d;
 }
 
 .theme-dark .closeButton-1tv5uR:hover {
-    background-color: #292929;
+    background-color: #0d0d0d;
 }
 
 #app-mount .ace_scrollbar-h::-webkit-scrollbar-thumb, #app-mount .ace_scrollbar-v::-webkit-scrollbar-thumb {
-	background: #292929;
+	background: #0d0d0d;
 	border-radius: 5px;
 }
 #app-mount .ace_scrollbar-h::-webkit-scrollbar-track, #app-mount .ace_scrollbar-v::-webkit-scrollbar-track {
@@ -1638,7 +1646,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
-    background: #292929;
+    background: #0d0d0d;
 }
 
 .searchBar-3dMhjb {	
@@ -1682,7 +1690,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }	
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled {
-    background-color: #292929;
+    background-color: #0d0d0d;
 }
 
 .theme-dark .auditLog-3jNbM6 {
@@ -1793,7 +1801,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .perm-scroller::-webkit-scrollbar-thumb {
-	background-color: #292929 !important;
+	background-color: #0d0d0d !important;
 }
 
 .theme-dark .tile-2OwFgW:hover {
@@ -1829,7 +1837,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV {
-    background-color: #292929;
+    background-color: #0d0d0d;
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
